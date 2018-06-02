@@ -14,9 +14,9 @@ The project uses the create-react-app and node.js to install necessary packages.
 
 * Download or clone the repository. This is located to the right hand corner of the project.
 
-* install all project dependencies with npm install. This must be done in the folder you have downloaded or cloned the repository to.
+* install all project dependencies with `npm install`. This must be done in the folder you have downloaded or cloned the repository to.
 
-* start the development server with npm start
+* start the development server with `npm start`
 
 ## Resources
 [Create React App](https://github.com/facebook/create-react-app) 
