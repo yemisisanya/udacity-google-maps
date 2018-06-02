@@ -21,13 +21,12 @@ The project uses the create-react-app and node.js to install necessary packages.
 ## Resources
 [Create React App](https://github.com/facebook/create-react-app) 
 
-[react-icons](https://www.npmjs.com/package/react-icons)
-
-[Globe Icon](https://gis.yavapai.us/v4/img/globe.gif)
-[Google-maps-react](https://www.npmjs.com/package/google-maps-react)
-[Bootstrap](https://getbootstrap.com/)
-[Zomato API](https://developers.zomato.com/api)
-[Google Maps styles](https://mapstyle.withgoogle.com)
-[Google Maps + React](https://medium.com/front-end-hacking/simplified-google-maps-api-in-a-react-app-46981441d2c9)
-[collapsible Navigation Menu in React](https://www.davidmeents.com/creating-a-collapsible-navigation-menu-in-react-js/)
-[Udacity Front-End Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+* [react-icons](https://www.npmjs.com/package/react-icons) 
+* [Globe Icon](https://gis.yavapai.us/v4/img/globe.gif) 
+* [Google-maps-react](https://www.npmjs.com/package/google-maps-react) 
+* [Bootstrap](https://getbootstrap.com/) 
+* [Zomato API](https://developers.zomato.com/api) 
+* [Google Maps styles](https://mapstyle.withgoogle.com) 
+* [Google Maps + React](https://medium.com/front-end-hacking/simplified-google-maps-api-in-a-react-app-46981441d2c9) 
+* [collapsible Navigation Menu in React](https://www.davidmeents.com/creating-a-collapsible-navigation-menu-in-react-js/) 
+* [Udacity Front-End Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) 
