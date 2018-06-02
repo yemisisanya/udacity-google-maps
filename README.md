@@ -2,7 +2,7 @@
 
 This project shows a list of Restaurants in Calgary. The project was built for the final project of the Udacity Front-End Development program. 
 
-The list of things used to build this project is listed below:
+The list of tools used to build the project includes:
 
 * Google maps
 * Zomato API
