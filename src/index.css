@@ -1,0 +1,338 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inconsolata', monospace; 
+
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 40px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+  padding: 50px;
+  padding-top: 10px;
+  }
+
+
+
+#list{
+	background: #dbd0c7;
+	border:2px solid grey;
+	border-radius: 0 25px 25px 0;
+	 position: absolute;
+    opacity: 0.85;
+    top: 0px; 
+    left: 0px; 
+    z-index: 99;
+    width:300px;
+    margin-top: 31px;
+}
+
+li {
+	border-bottom: 1px solid grey;  
+	font-family: 'Inconsolata', monospace; 
+	cursor: pointer;
+	font-size:14px;
+	
+}
+
+.header{
+	font-family: 'Inconsolata', monospace; 
+	font-size:25px;
+	text-align: center;
+	padding:5px;
+	margin: 0px;
+	}
+
+.spinner{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:25%;
+    height:25%;
+}
+
+h5{
+	text-align: center;
+}
+
+.title{
+	text-align: center;
+}
+
+.photo{
+	border-radius: 50%;
+}
+
+.content_body{
+	display: inline-block;
+}
+
+.info_photo{
+float: left;
+padding:0px;
+}
+
+.info_body{
+float:right;
+padding: 0px;
+display: inline-block;
+}
+p{
+	margin:0px;
+}
+.fabars{
+	font-size: 30px;
+    margin-left: 10px;
+    
+}
+.list {
+  
+  position: absolute;
+  -ms-transform: translate(-300px, 0);
+  -webkit-transform: translate(-300px, 0);
+  transform: translate(-300px, 0);
+  transition: transform 0.5s ease;
+  z-index: 5;
+}
+.open {
+  -ms-transform: translate(0, 0);
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+.nav{
+	background: #dbd0c7;
+	opacity: 0.8;
+	border-bottom: 2px solid grey;
+}
+.col-md-12{
+	padding: 0px;
+}
+@media screen and (max-width: 400px) {
+
+.map{
+ width: 110%;
+	}
+#list{
+	width: 60%;
+	height: 55%;
+}
+li {
+  font-size: 9px;
+  font-weight: bold;
+  }
+  .content {
+  	width: 200px;
+  	height: 150px;
+  }
+  .title {
+  	font-size: 12px;
+  }
+  p{
+  	font-size: 9px;
+
+  }
+
+  .photo{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 30px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+.header{
+	font-size: 16px;
+}
+}
+
+@media screen and (max-width: 360px) {
+
+.map{
+ width: 110%;
+	}
+#list{
+	width: 60%;
+	height: 75%;
+}
+li {
+  font-size: 10px;
+  font-weight: bold;
+  }
+  .content{
+  	width: 200px;
+  	height: 150px;
+  }
+  .title {
+  	font-size: 12px;
+  }
+  p{
+  	font-size: 9px;
+
+  }
+ul{
+	padding: 10px;
+}
+  .photo{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 30px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+.header{
+	font-size: 16px;
+}
+}
+
+@media screen and (max-width: 500px) {
+
+.map{
+ width: 110%;
+	}
+#list{
+	width: 60%;
+	height: 60%;
+}
+li {
+  font-size: 10px;
+  font-weight: bold;
+  }
+  .content{
+  	width: 200px;
+  	height: 150px;
+  }
+  .title {
+  	font-size: 12px;
+  }
+  p{
+  	font-size: 9px;
+
+  }
+ul{
+	padding: 10px;
+}
+  .photo{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 30px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+.header{
+	font-size: 16px;
+}
+}
+
+@media screen and (max-width: 320px) {
+
+.map{
+ width: 110%;
+	}
+#list{
+	width: 60%;
+	height: 70%;
+}
+li {
+  font-size: 10px;
+  font-weight: bold;
+  }
+  .content{
+  	width: 200px;
+  	height: 150px;
+  }
+  .title {
+  	font-size: 12px;
+  }
+  p{
+  	font-size: 9px;
+
+  }
+ul{
+	padding:10px;
+}
+  .photo{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 30px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+.header{
+	font-size: 16px;
+}
+}
+@media screen and (max-width: 375px) {
+
+.map{
+ width: 110%;
+	}
+#list{
+	width: 60%;
+	height: 65%;
+}
+li {
+  font-size: 10px;
+  font-weight: bold;
+  }
+  .content{
+  	width: 200px;
+  	height: 150px;
+  }
+  .title {
+  	font-size: 12px;
+  }
+  p{
+  	font-size: 9px;
+
+  }
+ul{
+	padding: 10px;
+}
+  .photo{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.input{
+	background: #ffffe1;
+	width: 100%;
+	height: 30px;
+	border:2px solid grey;
+	border-radius: 15px;
+	font-family: 'Inconsolata', monospace; 
+}
+.header{
+	font-size: 16px;
+}
+}
