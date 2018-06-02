@@ -1,4 +1,4 @@
-#Calgary Restaurants
+# Calgary Restaurants
 
 This project shows a list of Restaurants in Calgary. The project was built for the final project of the Udacity Front-End Development program. 
 
@@ -9,7 +9,7 @@ The list of things used to build this project is listed below:
 
 The map is generated using google maps api, specifically, google-maps-react npm package. The Zomato API is used to generate the list of restaurants in Calgary. The list of restaurants are displayed on google maps. Users can either click the marker on the map or click a restaurant name to display more information about the restaurant and it's exact location.
 
-##How To Install
+## How To Install
 The project uses the create-react-app and node.js to install necessary packages.
 
 * Download or clone the repository. This is located to the right hand corner of the project.
@@ -18,9 +18,11 @@ The project uses the create-react-app and node.js to install necessary packages.
 
 * start the development server with npm start
 
-##Resources
+## Resources
 [Create React App](https://github.com/facebook/create-react-app) 
+
 [react-icons](https://www.npmjs.com/package/react-icons)
+
 [Globe Icon](https://gis.yavapai.us/v4/img/globe.gif)
 [Google-maps-react](https://www.npmjs.com/package/google-maps-react)
 [Bootstrap](https://getbootstrap.com/)
