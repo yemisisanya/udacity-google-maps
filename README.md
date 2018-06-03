@@ -16,7 +16,8 @@ The project uses the create-react-app and node.js to install necessary packages.
 
 * install all project dependencies with `npm install`. This must be done in the folder you have downloaded or cloned the repository to.
 
-* start the development server with `npm start`
+* start the development server with `npm start` 
+
 Otherwise, click [here](https://crestaurants.surge.sh) to view the project.
 ## Resources
 [Create React App](https://github.com/facebook/create-react-app) 
